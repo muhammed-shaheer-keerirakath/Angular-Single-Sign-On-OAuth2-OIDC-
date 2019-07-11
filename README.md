@@ -2,6 +2,9 @@
 A Basic level implementation example for Single Sgn-On (SSO) in Angular 8 using OAuth2 and Open ID Connect(OIDC).
 You can find the step-by-step youtube video tutorial of this application [here](https://youtu.be/AcuzemsJfxA)
 
+[[[https://raw.githubusercontent.com/shaheershukur/Angular-Single-Sign-On-OAuth2-OIDC-/master/angular-single-sign-on-oauth2-oidc-shaheershukur.jpg]]][1]
+[1]: https://youtu.be/AcuzemsJfxA
+
 ![Angular Single Sign-On youtube tutorial](https://raw.githubusercontent.com/shaheershukur/Angular-Single-Sign-On-OAuth2-OIDC-/master/angular-single-sign-on-oauth2-oidc-shaheershukur.jpg )
 
 # Made with Angular 
