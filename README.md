@@ -1,10 +1,5 @@
 # SsoApp
-A Basic level implementation example for Single Sgn-On (SSO) in Angular 8 using OAuth2 and Open ID Connect(OIDC).
-Here is the step-by-step [youtube video tutorial](https://youtu.be/AcuzemsJfxA) of this application.
 
-![Angular Single Sign-On youtube tutorial](https://raw.githubusercontent.com/shaheershukur/Angular-Single-Sign-On-OAuth2-OIDC-/master/angular-single-sign-on-oauth2-oidc-shaheershukur.jpg )
-
-# Made with Angular 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
 ## Development server
