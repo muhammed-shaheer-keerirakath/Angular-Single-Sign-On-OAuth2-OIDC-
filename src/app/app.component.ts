@@ -17,7 +17,15 @@ export class AppComponent {
   configureSingleSignOn(){
     this.oauthService.configure(authConfig);
     this.oauthService.tokenValidationHandler = new JwksValidationHandler();
-    this.oauthService.loadDiscoveryDocumentAndLogin();
+    this.oauthService.loadDiscoveryDocumentAndTryLogin();
+  }
+
+  login(){
+    this.oauthService.initImplicitFlow();
+  }
+  
+  logout(){
+    this.oauthService.logOut();
   }
 
   get token(){
