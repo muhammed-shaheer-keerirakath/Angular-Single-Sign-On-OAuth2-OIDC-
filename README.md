@@ -1,4 +1,4 @@
-# SsoApp
+# SSO (Single-Sign-On) Angular App
 A Basic level implementation example for Single Sgn-On (SSO) in Angular 8 using OAuth2 and Open ID Connect(OIDC).
 Here is the step-by-step [youtube video tutorial](https://youtu.be/AcuzemsJfxA) of this application.
 
